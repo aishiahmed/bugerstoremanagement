@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1672540755 source:c:\users\hp\onedrive\desktop\we\burger project management\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1687542654 source:c:\users\hp\onedrive\desktop\cse115-8-2231888642-burger-store_management\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"splash.h"
+
+1672551688 c:\users\hp\onedrive\desktop\cse115-8-2231888642-burger-store_management\splash.h
+
